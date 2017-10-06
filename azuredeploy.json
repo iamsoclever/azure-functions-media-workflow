@@ -44,7 +44,7 @@
     },
     "callbackUrl": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "https://requestb.in/1486fvo1",
       "metadata": {
         "description": "Optional: A URL which will be POSTed to once the asset is published. You may get a test URL at http://requestb.in"
       }
