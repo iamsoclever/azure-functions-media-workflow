@@ -51,7 +51,7 @@
     },
     "sourceCodeRepositoryURL": {
       "type": "string",
-      "defaultValue": "https://github.com/sabbour/azure-functions-media-workflow",
+      "defaultValue": "https://github.com/iamsoclever/azure-functions-media-workflow",
       "metadata": {
         "description": "Source code repository URL. Is is highly recommended that you first fork the samples repository and point this to your fork. If you are using your own fork, set the sourceCodeManualIntegration property to false below."
       }
